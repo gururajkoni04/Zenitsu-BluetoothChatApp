@@ -13,8 +13,7 @@ The sample demonstrates the following, using the Bluetooth API:
 
 
 
-![Logo](https://drive.google.com/uc?export=view&id=1DRaBF6N8EvmEP_t_f-IHOmKoHOK2sb_U)
-![Logo](https://drive.google.com/uc?export=view&id=1LB1r1VxSBh3_9jRPN_SbinFNteCCDAX5)
+![Logo](https://drive.google.com/uc?export=view&id=1Aj013gmumZnCrGa_Zr9Q_tnoCnH8tweD)
 
 ## Authors
 
@@ -23,8 +22,6 @@ The sample demonstrates the following, using the Bluetooth API:
 This sample uses the Gradle build system. To build this project, use the "gradle build" command or use "Import Project" in Android Studio.
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1YWAe4EQtrgUFgHXOnxYZTxAzF9F7wqLe)
-![App Screenshot](https://drive.google.com/uc?export=view&id=1YPpuDHkKXRVnTaRI34EPdqcz88wl9UDx)
-![App Screenshot](https://drive.google.com/uc?export=view&id=1YOZsa7DUZP0UnTCf3rUoT0-93NH5p94W)
-![App Screenshot](https://drive.google.com/uc?export=view&id=1YKTVojgMkGhjxNBFXmCqcUIlzUH-ChQD)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1eD100Bq28k44Snnp1L6xuG-cehEjdrxT)
+
 
